@@ -1,0 +1,17 @@
+pip
+ipywidgets>=7.6
+scikit-learn
+xgboost
+opencv-python
+nibabel
+plotly
+chart_studio 
+jupyter-dash
+lightgbm
+xgboost
+graphviz
+catboost
+hyperopt 
+optuna
+ipython-sql
+japanize_matplotlib
