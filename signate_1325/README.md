@@ -2,8 +2,8 @@
 ソースコード(Pythonコード)とNotebookを管理
 
 ### コンペ概要
-[概要についてはこちら][1]
-[1]:https://signate.jp/competitions/1325
+
+https://signate.jp/competitions/1325
 
 
 精度評価: 「MeanF1Score（MacroF1Score）」
